@@ -1,2 +1,2 @@
-# my1strepo
-posting a project
+# my1strepro
+software engineer
